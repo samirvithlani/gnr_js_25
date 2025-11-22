@@ -1,0 +1,78 @@
+HTML:- scripting lang... 
+
+static page
+
+HTML --dynamic data
+
+JavaScript:
+
+2 type of prog lang:
+server side prog lang    client side prog
+c,cpp,java,python...     javascript,html,css
+
+browser only und webpage : HTML
+----------------------------------------------
+
+we can write js code in 3 way
+inline js
+internal js
+external js
+
+-------------------------------
+d:royal->js
+
+openwith code -->
+2nd
+ctrl + l -- type cmd and enter code .
+
+
+window : BOM  : browser object model
+document: DOM : document object model -->html page
+
+variable:
+int a = 100;
+datatype variablename = value
+----------------------------------
+
+2 type prog / scripting lang
+
+statically typed prog/scri
+	when you declare variable we need to define data type of that variable..
+c,cpp,java
+dynamically typed prog :
+	when you declare variable we do not need to define data type of that variable..
+js,python
+
+
+compiler interpreter:
+
+
+in js single '' and  "" both are same...
+
+22-11-2025
+----------------------------------------------------------------------
+
+to declare variable in js we have 3 keywords
+
+var
+let
+const
+
+inspect ctrl + shif + i
+
+funciton -- > block{}
+
+{
+variable declare : local variable..
+scope of this variable to the funciton
+
+}
+
+
+//var : global scope
+//let : block scope
+//const : block scope
+
+
+using var declareed variable can access inside block and outisde of block
+using let declareed variable inside block  can access inside block only
