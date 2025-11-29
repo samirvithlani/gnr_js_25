@@ -11,13 +11,10 @@ if (age >= 18) {
     console.log("user is not eligible for marrige...");
   }
 } else {
-
   console.log("user is not eligible for voating...");
-    if(age>16){
-        console.log("user is eligible for driving..")
-    }
-    else{
-        console.log("stay at home...")
-    }
-
+  if (age > 16) {
+    console.log("user is eligible for driving..");
+  } else {
+    console.log("stay at home...");
+  }
 }

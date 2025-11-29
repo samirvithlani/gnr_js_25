@@ -119,4 +119,23 @@ else{
 }
 
 
+LOGICAL operators:
+and or not
+if(cond1 && cond2)
+
+AND
+T---> T ---->T
+T---> F ---->F
+F ---------->F
+
+every cond must sat..
+or
+T----------->T
+F ---->T --->T
+F ---->F --->F
+
+atleast one cond...
+
+
+
 
