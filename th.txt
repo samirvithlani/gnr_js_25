@@ -76,3 +76,47 @@ scope of this variable to the funciton
 
 using var declareed variable can access inside block and outisde of block
 using let declareed variable inside block  can access inside block only
+
+//pi = 3.15; //Uncaught TypeError: Assignment to constant variable.
+//console.log("value of pi = ",pi)
+
+//const y;  //Uncaught SyntaxError: Missing initializer in const declaration
+
+//when you declare variable using conost value must be inilitized.....
+
+//using var re asignment is possible..
+//using var re declaration is possible..
+//using let re asignment is possible..
+//using let re declaration is not possible..
+//let k = 21; //Uncaught SyntaxError: Identifier 'k' has already been declared 
+//console.log("value of k = ",k) 
+
+operators:
+operators are the special symbol which can use to perform operaion on operands
+
+1)unery operators: it requireds only 1 operand
+2)binery operators:it requireds  min 2 operand
+	1)arithmetic operators: +,-,*,/,%
+	2)logocal operators : || , !, &&
+	3)asignmen operators: =, +=,-+..
+	4)comparasion op : <,>,<=,>=, ==, !=, ===
+3)ternery operators it requireds min operand
+
+29-11-2025
+------------------------------------------------------------
+comparasion / relational op : 
+decisoin making statements:
+if else
+switch case
+loop
+
+if(cond){
+
+	//if body..
+}
+else{
+	//else body..
+}
+
+
+
