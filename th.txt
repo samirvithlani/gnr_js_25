@@ -137,5 +137,18 @@ F ---->F --->F
 atleast one cond...
 
 
+LOOPS:
+1,100 : loops
+
+2 type loop
+entry  loop : for loop, while
+exit :  do while:
+
+for: sp* ep*
+while:no iteration.... sp ep
+---------------------------------
+
+
+
 
 
