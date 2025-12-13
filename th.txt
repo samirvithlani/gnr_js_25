@@ -148,7 +148,12 @@ for: sp* ep*
 while:no iteration.... sp ep
 ---------------------------------
 
-
+String:
+string is dynamic: no need to give size..
+string is immutable: no modification
+string allows duplicate element
+string can decalare with '' aswell ""
+string stores data in index[dynamic array]
 
 
 

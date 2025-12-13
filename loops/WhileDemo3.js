@@ -31,3 +31,5 @@ while(no>0){
 }
 
 console.log("sum of digit = ",sum)
+
+//123 -- 321
