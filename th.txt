@@ -156,6 +156,8 @@ string can decalare with '' aswell ""
 string stores data in index[dynamic array]
 
 
+java react php .net python data sci
 
+JSON:javascript object notation.
 
 
