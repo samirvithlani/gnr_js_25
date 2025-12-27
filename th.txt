@@ -161,3 +161,97 @@ java react php .net python data sci
 JSON:javascript object notation.
 
 
+array:
+before array we need udf
+
+2 type of functions
+
+pre defined funciton
+user defined funciton
+
+block of code...
+
+use:
+reusablity of code
+easy to maintain
+readiblity
+
+_____________________________________: 20 line code...
+1
+====================================
+2
+====================================
+3
+====================================
+4
+====================================
+5
+====================================
+6
+====================================
+7
+====================================
+8
+====================================
+9
+====================================
+10
+
+
+
+1
+drawline()
+2
+drawline()
+3
+drawline()
+4
+drawline()
+5
+drawline()
+6
+drawline()
+7
+drawline()
+8
+drawline()
+9
+drawline()
+10
+
+
+200 line code... repe...
+
+drawline(){
+
+	20 line
+	==============================
+}
+
+
+
+
+banking app:
+20 func: function....
+
+type of funciton:
+with argument with return type
+with argument without return type
+without argument with return type
+without argument without return type
+
+
+void test(){}
+int add(int a,int b){}
+
+in js for function declaration we have function keyword
+
+
+funciton demo(){} //without return type without arg
+funciton demo(){
+	return ""
+} //with return type without arg
+funciton demo(x,y){} //without return type with arg
+funciton demo(x,y){
+	return x+y
+} //with return type with arg
