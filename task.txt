@@ -1,0 +1,7 @@
+decare stirng array ["naman",""]
+
+check all elment length >=4 or not
+checl alteast  element length is == 2 or not
+
+check atleast one element starts with a
+check all elements are ends with i or a  
