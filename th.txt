@@ -255,3 +255,5 @@ funciton demo(x,y){} //without return type with arg
 funciton demo(x,y){
 	return x+y
 } //with return type with arg
+
+
