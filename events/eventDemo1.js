@@ -6,3 +6,16 @@ const test=()=>{
     text.innerText = "HI"
     
 }
+
+const getBox=()=>{
+    //alert("box...")
+    const box = document.getElementById("box") //<div>
+    box.style.backgroundColor="red"
+}
+
+const changeLink =()=>{
+    
+    const link = document.getElementById("link")
+    link.href ="https://www.netflix.com"
+    link.innerText="Netflix"
+}
