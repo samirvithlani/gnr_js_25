@@ -257,3 +257,35 @@ funciton demo(x,y){
 } //with return type with arg
 
 
+
+events:
+HTML : button ->click -->curse... 
+table : mouse
+input :.....
+
+mouse
+keybord
+auto
+
+DOM: document object model  [html]
+
+BOM : browser object model
+
+BOM parent --> document 
+
+
+4 Identifier
+<
+<h1> : id <h1 id="txt">       : unique
+<h1> : name <h1 name="txt">   : duplicate
+<h1> : class <h1 class="txt"> : duplicate
+<h1> : it self                : dulicate
+
+<h1>innerText</h1>
+<h1 attribute>  
+<div>
+<h1>  -->innerHTML
+</div>
+
+
+

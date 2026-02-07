@@ -22,3 +22,6 @@ var discount = [12.5,17,0,90,87,100.00,78,101.10]
 //free product..
 var freeprod = discount.filter((d)=>d>=100)
 console.log(freeprod)
+
+var upperNagar = city.filter((c)=>c.endsWith("nagar")).map((x)=>x.toUpperCase())
+console.log(upperNagar)
