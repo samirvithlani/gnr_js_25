@@ -14,3 +14,10 @@ const changeColor2=()=>{
 }
 
 //box center random no print
+
+const changeColor3 =()=>{
+    const  box2 = document.getElementById("box2") //<div>
+    box2.className ="box2" //css class if present it will applied if not no error...
+
+
+}
