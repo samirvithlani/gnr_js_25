@@ -5,3 +5,44 @@ checl alteast  element length is == 2 or not
 
 check atleast one element starts with a
 check all elements are ends with i or a  
+
+same folder 6 images --> random image
+hint use array
+random no
+generate random index
+
+
+//task 1:
+get input using input -->if len of name <3 print error in red on html page invalid name: onkeyup
+20 email data :--> check email is avaialble or not using on b;lur event
+//only even will blue else red : hw
+
+//boxes --> 10 --> any of box -->mouse ->random color in all box but every box will have diff color
+// -->change cursor style
+// take 3 input ---> number
+//no1 [   ] no
+//op  [   ] string
+//no2 [   ] no
+
+no1 10
+op  +
+no2 20
+
+ans hrtml ->30
+
+no1 = 100
+op = *
+no2 = 5 
+
+500
+invalid operation
+--->
+reserch next task: input type text 10+20  =30
+dynamic:
+1000*2 -->
+
+
+//create dice roll game using event listners --->
+
+
+

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="./inputdemo1.js"></script>
+  </head>
+  <body>
+    <div>
+      <label>NAME:</label>
+      <input type="text" id="text" onkeyup="getData()" />
+      <span id="nameOutput"></span>
+    </div>
+    <div>
+      <label>NAME:</label>
+      <!-- <input type="text" id="text1" onkeydown="getData1()" /> -->
+      <input type="text" id="text1" onkeypress="getData1()" />
+      <span id="nameOutput1"></span>
+    </div>
+    <div>
+      <label>NAME:</label>
+      <!-- <input type="text" id="text1" onkeydown="getData1()" /> -->
+      <input type="text" id="text2" oninput="getData2()" />
+      <span id="nameOutput2"></span>
+    </div>
+  </body>
+</html>
