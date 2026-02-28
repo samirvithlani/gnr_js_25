@@ -1,21 +1,43 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="./FormDemo1.js"></script>
-</head>
-<body>
+  </head>
+  <body>
     <form onsubmit="submitHandler(event)">
-        <div>
-            <label>NAME*</label>
-            <input type="text" id="name">
-            <span id="nameValue"></span>
-        </div>
-        <div>
-            <input type="submit">
-        </div>
+      <div>
+        <label>NAME*</label>
+        <input type="text" id="name" />
+        <span id="nameValue"></span>
+      </div>
+      <div>
+        <label>GENDER</label><br />
+        MALE : <input type="radio" value="male" name="gender" /> <br />
+        FEMALE : <input type="radio" value="female" name="gender" /> <br />
+      </div>
+      <div>
+        <label>HOBBIES</label> <br />
+        CRICKET : <input type="checkbox" value="cricket" name="hobbies" />
+        <br />
+        CHESS : <input type="checkbox" value="chess" name="hobbies" /> <br />
+        SCROLLING : <input type="checkbox" value="scrolling" name="hobbies" />
+        <br />
+      </div>
+      <div>
+        <label>SELECT COUNTRY</label>
+        <select id="country">
+            <option value="india">INDIA</option>
+            <option value="usa">USA</option>
+            <option value="china">CHINA</option>
+
+        </select>
+      </div>
+      <div>
+        <input type="submit" />
+      </div>
     </form>
-</body>
+  </body>
 </html>
