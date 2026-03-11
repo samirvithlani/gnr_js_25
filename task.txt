@@ -44,5 +44,11 @@ dynamic:
 
 //create dice roll game using event listners --->
 
+---->
+array -->number -->5
+
+gen button --> 5 display
+push --> random gen ->array push
+
 
 
