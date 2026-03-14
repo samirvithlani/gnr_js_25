@@ -52,3 +52,12 @@ push --> random gen ->array push
 
 
 
+button  --> click -->root --->button gene -->innerhtm ->demo -->click -- >alert
+hint:event lisnter
+
+
+-------------
+<ul>
+    <li> 20
+        <li>30
+            <li>34
