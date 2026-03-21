@@ -286,6 +286,24 @@ BOM parent --> document
 <div>
 <h1>  -->innerHTML
 </div>
+-----------------------------------
+2 type prog:
+sync prog
+non sync prog:
+-->
+trafic single :
+highway:
 
+javascript by default non sync
+Promise is class in javascript it will expect call back function in constructor...
+
+
+button press fetch data.. --. database --> 5 second..
+print... undefined....
+
+promise has 3 stage:
+1 pending...
+2) resolve / fullfill
+3)reaject / fail
 
 

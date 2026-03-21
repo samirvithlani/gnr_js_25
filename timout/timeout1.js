@@ -34,4 +34,4 @@ var id = setInterval(()=>{
     setTimeout(()=>{
         clearInterval(id)
     },4000)
-})
+},1000)
