@@ -307,3 +307,28 @@ promise has 3 stage:
 3)reaject / fail
 
 
+
+then(
+	then(
+		then()
+	)
+)
+
+//callback hell
+
+async await...
+
+
+
+
+for(i=0;a.len;i++){
+
+	sum = sum + arr[i]
+}
+sum
+
+[1,2,3,4,5]
+prv =0
+next =1
+o+1 =1 prev =1 
+next =2 = 3
