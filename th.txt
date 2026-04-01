@@ -332,3 +332,18 @@ prv =0
 next =1
 o+1 =1 prev =1 
 next =2 = 3
+
+
+date always works with milliseconds
+hour :1
+minute:60
+second:60
+milisecond:1000
+
+calander: Grogrian calander: 
+1st mils : 1970 1st janury 00:00:00
+
+timezones:
+india has 1 timezone : IST +00:530
+--->
+UTC time 00:00:00 + 5:30
